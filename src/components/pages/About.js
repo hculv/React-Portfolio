@@ -5,7 +5,7 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Here is a link to my current projecyts: 
+        Here is a link to my current projects: https://github.com/hculv
       </p>
     </div>
   );
